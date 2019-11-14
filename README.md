@@ -8,4 +8,6 @@
 * [...Spread Operator](https://jsfiddle.net/Weteef/rjwvsxgh/)
 ---
 * [If Pigs Could Fly](https://jsfiddle.net/duch/qj2kyrLu/)
-* [Asynchronously](https://jsfiddle.net/duch/42amg5qk/)
+* [Asynchronous](https://jsfiddle.net/duch/42amg5qk/)
+* [Asynchronous Promises](https://jsfiddle.net/duch/ywbxa5pn/)
+* [Sweet Promises](https://jsfiddle.net/duch/9f4abory/)
