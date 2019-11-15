@@ -11,3 +11,5 @@
 * [Asynchronous](https://jsfiddle.net/duch/42amg5qk/)
 * [Asynchronous Promises](https://jsfiddle.net/duch/ywbxa5pn/)
 * [Sweet Promises](https://jsfiddle.net/duch/9f4abory/)
+---
+* [Beyond JavaScript](https://jsfiddle.net/duch/20kgsbm7/)
