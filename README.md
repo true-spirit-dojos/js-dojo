@@ -1,5 +1,7 @@
 # js-dojo
 
+* [Functional Style Example](https://jsfiddle.net/duch/jk63tob2/)
+---
 * [Scope Basics](https://jsfiddle.net/duch/jse73vm0/)
 * [Loose Typing](http://jsfiddle.net/Weteef/ukeLh9td/)
 ---
