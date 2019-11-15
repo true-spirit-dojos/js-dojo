@@ -6,7 +6,7 @@
 * [Arrow => Functions](https://jsfiddle.net/Weteef/ems4nrb1/)
 * [{ Destructuring }](https://jsfiddle.net/Weteef/dnv7wqkh/)
 * [...Spread Operator](https://jsfiddle.net/Weteef/rjwvsxgh/)
-* [Template Literals](https://jsfiddle.net/Weteef/gfjhn25a/)
+* [${Template Literals}](https://jsfiddle.net/Weteef/gfjhn25a/)
 ---
 * [If Pigs Could Fly](https://jsfiddle.net/duch/qj2kyrLu/)
 * [Asynchronous](https://jsfiddle.net/duch/42amg5qk/)
