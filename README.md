@@ -1,7 +1,7 @@
 # js-dojo
 
 * [Scope Basics](https://jsitor.com/hhlOKEh-B)🔸
-* [Loose Typing](https://jsitor.com/o0Vjw6c5x)🔹
+* [Loose Typing](https://jsitor.com/MiHZmdg-L)🔹
 ---
 * [Arrow => Functions](https://jsitor.com/95OnaeCdQ)🔹
 * [{ Destructuring }](https://jsitor.com/5nUxZjZWO)🔸
