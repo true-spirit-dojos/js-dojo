@@ -1,7 +1,7 @@
 # js-dojo
 
 * [Loose Typing](https://stackblitz.com/edit/slide-loose-typing)🔹
-* [Scope Basics](https://jsitor.com/hhlOKEh-B)🔸
+* [Scope Basics](https://stackblitz.com/edit/slide-scope-basics)🔸
 ---
 * [Arrow => Functions](https://stackblitz.com/edit/slide-arrow-functions)🔹
 * [{ Destructuring }](https://jsitor.com/5nUxZjZWO)🔸
