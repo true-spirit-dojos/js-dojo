@@ -3,9 +3,9 @@
 * [Loose Typing](https://stackblitz.com/edit/slide-loose-typing)🔹
 * [Scope Basics](https://jsitor.com/hhlOKEh-B)🔸
 ---
-* [Arrow => Functions](https://jsitor.com/8-iw0daYL)🔹
+* [Arrow => Functions](https://stackblitz.com/edit/slide-arrow-functions)🔹
 * [{ Destructuring }](https://jsitor.com/5nUxZjZWO)🔸
-* [...Spread Operator](https://jsitor.com/kAVYv995c)🔹
+* [...Spread Operator](https://stackblitz.com/edit/slide-spread-operator)🔹
 * [${Template Literals}](https://jsitor.com/vOAIxtVfb)🔸
 ---
 * [If Pigs Could Fly](https://stackblitz.com/edit/slide-if-pigs-could-fly)🔸
