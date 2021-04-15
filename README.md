@@ -4,9 +4,9 @@
 * [Scope Basics](https://stackblitz.com/edit/slide-scope-basics)🔸
 ---
 * [Arrow => Functions](https://stackblitz.com/edit/slide-arrow-functions)🔹
-* [{ Destructuring }](https://jsitor.com/5nUxZjZWO)🔸
+* [{ Destructuring }](https://stackblitz.com/edit/slide-destructuring)🔸
 * [...Spread Operator](https://stackblitz.com/edit/slide-spread-operator)🔹
-* [${Template Literals}](https://jsitor.com/vOAIxtVfb)🔸
+* [${Template Literals}](https://stackblitz.com/edit/slide-template-literals)🔸
 ---
 * [If Pigs Could Fly](https://stackblitz.com/edit/slide-if-pigs-could-fly)🔸
 ---
