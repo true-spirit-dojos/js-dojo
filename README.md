@@ -11,8 +11,8 @@
 * [If Pigs Could Fly](https://stackblitz.com/edit/slide-if-pigs-could-fly)🔸
 ---
 * [Asynchronous](https://stackblitz.com/edit/slide-asynchronous-callbacks)🔹
-* [Asynchronous Promises](https://jsitor.com/648pIpRLx)🔹
-* [Sweet Promises](https://jsitor.com/gLjugth_f)🔹
+* [Asynchronous Promises](https://stackblitz.com/edit/slide-asynchronous-promises)🔹
+* [Sweet Promises](https://stackblitz.com/edit/slide-sweet-promises)🔹
 ---
 BACKUP:
 * [Beyond JavaScript](https://jsitor.com/q3wFqNySs)🔸🔹
